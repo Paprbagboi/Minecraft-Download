@@ -1,0 +1,1 @@
+Download the file raw and double click on it in your files, should start running the game. If you want to save your world, download the world as a .epk and then upload it when you want to play it again.
